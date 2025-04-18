@@ -68,9 +68,9 @@ body{
 
 .welcome h2{
     position: relative;
-    text-align: center;
+   
     top: -180px;
-    right:144px;
+    left:449px;
     font-size: 30px;
 }
 
@@ -596,3 +596,11 @@ textarea{
      right: 90px;
      cursor: pointer;
  }
+@media (max-width: 767px){
+    .welcome h2{
+    
+    }
+    
+   
+ }
+ 
