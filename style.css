@@ -9,6 +9,7 @@
 body{
     position:relative;
     background-color: rgb(83, 85, 83);
+    
 }
 
 .left h1{
@@ -67,10 +68,12 @@ body{
 }
 
 .welcome h2{
+    
     position: relative;
-   
     top: -180px;
     left:449px;
+
+    
     font-size: 30px;
 }
 
@@ -80,7 +83,6 @@ body{
     top:-170px;
     left: 450px;
     font-size: 35px;
-
     display: inline-block;
     overflow: hidden;
     white-space: nowrap;
@@ -596,7 +598,9 @@ textarea{
      right: 90px;
      cursor: pointer;
  }
-@media (max-width: 767px){
+
+
+ @media (max-width: 767px){
     .welcome h2{
     
     }
@@ -604,3 +608,7 @@ textarea{
    
  }
  
+
+
+
+
