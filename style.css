@@ -579,7 +579,7 @@ textarea{
     font-size: 16px;
     border: none;
     cursor: pointer;
-    position: relative;
+    position: absolute;
     
 }
 .submitBtn:hover{
@@ -599,6 +599,7 @@ textarea{
      top:-1990px;
      right: 90px;
      cursor: pointer;
+     
  }
 
 
